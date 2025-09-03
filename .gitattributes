@@ -1,0 +1,10 @@
+* text=auto
+
+*.icc binary
+*.pth binary
+*.ico binary
+*.bat text eol=crlf
+*.reg text eol=crlf
+*.sh text eol=lf
+
+/playground export-ignore

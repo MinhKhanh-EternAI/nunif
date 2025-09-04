@@ -11,6 +11,7 @@ Mục tiêu: **chạy offline bằng Python API** để xử lý ảnh (upscale 
 ```bash
 git clone https://github.com/MinhKhanh-EternAI/nunif.git
 cd nunif
+```
 
 ```bash
 pip install -r requirements-min.txt
